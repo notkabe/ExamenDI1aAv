@@ -1,0 +1,11 @@
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\bin\Debug\Examen1aAv.exe.config
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\bin\Debug\Examen1aAv.exe
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\bin\Debug\Examen1aAv.pdb
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.csproj.AssemblyReference.cache
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.Form1.resources
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.Properties.Resources.resources
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.csproj.GenerateResource.cache
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.csproj.CoreCompileInputs.cache
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.exe
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.pdb
+C:\Users\Elyer\OneDrive\Escritorio\Examen1aAv\Examen1aAv\obj\Debug\Examen1aAv.FrmSecundario.resources
